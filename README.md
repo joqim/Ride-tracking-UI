@@ -27,7 +27,7 @@ For example, your station code is 40. So any ride that has your station code as 
 </section>
 
 <section>
-<h2> Nearest </h2>
+<h2> Past </h2>
 <p> It shows all rides which has date in the past.</p>
 <img src="./public/Screen Shots/Past.jpg" >
 </section>
