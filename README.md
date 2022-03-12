@@ -9,9 +9,9 @@ For example, your station code is 40. So any ride that has your station code as 
  
  <h4> Filter </h4>
  <p> 
-     Every ride has state and city. You need to get state and city from every ride object and create a list of state & city for the filters dropdown. 
-     State : It shows rides from that state only. City: It shows rides from selected city only. 
-     If a state is already selected then the city dropdown will have cities from selected state only. 
+     Every ride has state and city. You need to get state and city from every ride object and create a list of state & city for the filters dropdown. <br />
+     State : It shows rides from that state only. City: It shows rides from selected city only. <br />
+     If a state is already selected then the city dropdown will have cities from selected state only.
  </p>
  
 <img src="./public/Screen Shots/main.jpg" >
