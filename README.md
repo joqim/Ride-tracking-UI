@@ -9,10 +9,11 @@ For example, your station code is 40. So any ride that has your station code as 
  
  <h4> Filter </h4>
  <p> 
-     Every ride has state and city. You need to get state and city from every ride object and create a list of state & city for the filters dropdown. <br />
+     Every ride has a state and city. You need to get state and city from every ride object and create a list of state & city for the filters dropdown. <br />
   
-  <b>State</b> : It shows rides from that state only. <br />
-  <b>City</b>: It shows rides from selected city only. <br />
+  <b>State</b> : Displays rides from selected state. <br />
+  <b>City</b>: Displays rides from selected city. <br />
+  
      If a state is already selected then the city dropdown will have cities from selected state only.
  </p>
  
@@ -27,6 +28,6 @@ For example, your station code is 40. So any ride that has your station code as 
 
 <section>
 <h2> Nearest </h2>
-<p> It shows all rides which has date in Past. which mean you can track you roads where to go  </p>
+<p> It shows all rides which has date in the past.</p>
 <img src="./public/Screen Shots/Past.jpg" >
 </section>
