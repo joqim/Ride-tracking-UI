@@ -3,7 +3,7 @@ An assessment for a react application which shows Nearest, Upcoming and Past rid
 
 Rendered from the [Figma](https://www.figma.com/file/D0I5TsR7XGQECn8I1bia3L/Desktop-test?node-id=1%3A2) mock-up.
 
-Deployed at [Vercel](url)
+Deployed at [Vercel](https://ride-tracker.vercel.app/)
 
 <section>
 <h2> Nearest </h2>
